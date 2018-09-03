@@ -1,0 +1,16 @@
+== README
+
+## 必要なモノ
+csvファイル
+※文字コードを変換できるやつ必要 （mi）
+sumlimeで拡張子だけcsvにしても、文字コードはutf-8になる 
+jisshift windowにしないといけない
+
+
+## 流れ
+
+1.設定：csvをrequire
+2.フォーム作成
+3.productモデルにimportのメソッド作成
+4.ロジックを作っていく必要あり
+
